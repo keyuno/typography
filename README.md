@@ -1,4 +1,4 @@
-# TYPOGRAPHY:
+# About:
 
 Typography is a Cryptoart project. The presentation is built using [Threejs](https://github.com/mrdoob/three.js/). It is a moving 3D object one can freely manipulate and is a modified version of [this example](https://threejs.org/examples/?q=mod#webgl_modifier_tessellation).
 
