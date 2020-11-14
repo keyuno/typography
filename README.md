@@ -6,10 +6,6 @@ The NFT 'TYPOGRAPHY' created using [Counterparty](https://github.com/Counterpart
 
 Counterparty tokens are Bitcoin secured. 'TYPOGRAPHY' NFT Transaction Hash: 000ed05bb0d84725b09c91f6ef83c933fbdd706592f88ff4c0bef382892c5ff3
 
-
-![typography](https://github.com/keyuno/typography/blob/main/t.gif)
-
-
 # Usage:
 
 To run the project locally follow the instructions in the link below.
